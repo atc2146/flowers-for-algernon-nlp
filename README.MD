@@ -31,10 +31,9 @@ Data is taken from the novel under fair use for the purpose of education and com
  * Get rid of lines showing up in Tableau area chart
  * Add more advanced filters for Tableau
  * Finish write-up
- * Get rid of 'Chapter Number' in reading tab
- * Emotion: emotion
  * Clean code
  * Modularize code
+ * Remove unnecessary data (to speed up Tableau)
 
 ## Author
 Alex Chung
