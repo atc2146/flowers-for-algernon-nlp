@@ -1,5 +1,6 @@
 # Flowers for Algernon
 
+:books: :cherry_blossom: :mouse2:  
 Natural Language Processing and textual analysis on the novel Flowers for Algernon.
 
 For a more detailed write-up, see [].
