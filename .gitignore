@@ -1,0 +1,17 @@
+# ignore ipynb_checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# ignore Tableau files
+*.twbx
+*.twb
+
+# ignore rough work
+
+# ignore archived files
+**/Archived*Files/
+Archived*Files/
+
+# ignore other
+*.docx
+*.doc
