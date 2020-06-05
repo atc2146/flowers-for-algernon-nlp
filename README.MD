@@ -30,6 +30,10 @@ Data is taken from the novel under fair use for the purpose of education and com
 ## Extensions and to-do
  * Get rid of lines showing up in Tableau area chart
  * Add more advanced filters for Tableau
+ * Finish write-up
+ * Get rid of 'Chapter Number' in reading tab
+ * Clean code
+ * Modularize code
 
 ## Author
 Alex Chung
