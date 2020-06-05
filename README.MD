@@ -1,13 +1,15 @@
-# Animal Farm
+# Flowers for Algernon
 
-Natural Language Processing of George Orwell's novella Animal Farm.
+Natural Language Processing and textual analysis on Daniel Keyes' 1966 novel Flowers for Algernon
 
-Animal Farm is an allegorical novella by George Orwell, first published in England on 17 August 1945. The book tells the story of a group of farm animals who rebel against their human farmer, hoping to create a society where the animals can be equal, free, and happy. Ultimately, however, the rebellion is betrayed, and the farm ends up in a state as bad as it was before, under the dictatorship of a pig named Napoleon.<sup>[[1]](#myfootnote1)</sup>
+## Introduction
+
+Flowers for Algernon  is a 1966 novel written by Daniel Keyes that tells the story of Charlie Gordon, a 32-year-old man with an IQ of 68.  Charlie undergoes an operation to increase his intelligence, and the operation is a success, with his IQ eventually reaching 185.  However, the effects are temporarily, and Charlie begins to regress to his original state.<sup>[[1]](#myfootnote1)</sup>
 
 ## Tableau Dashboard
 coming soon
 
-## Methodology and Summary
+## Methodology
 coming soon
 
 `See Jupyter Notebooks for full details.`
@@ -19,8 +21,8 @@ coming soon
 
 ## References and Resources
 
- * <a name="myfootnote1">[1]</a>: https://en.wikipedia.org/wiki/Animal_Farm
- * Pandas, NumPy, GeoPandas  
+ * <a name="myfootnote1">[1]</a>: https://en.wikipedia.org/wiki/Flowers_for_Algernon
+ * Pandas, NumPy
 
 ## Extensions
  * blah
