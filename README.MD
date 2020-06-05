@@ -32,6 +32,7 @@ Data is taken from the novel under fair use for the purpose of education and com
  * Add more advanced filters for Tableau
  * Finish write-up
  * Get rid of 'Chapter Number' in reading tab
+ * Emotion: emotion
  * Clean code
  * Modularize code
 
