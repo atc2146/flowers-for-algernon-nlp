@@ -1,6 +1,8 @@
 # Flowers for Algernon
 
-Natural Language Processing and textual analysis on Daniel Keyes' 1966 novel Flowers for Algernon
+Natural Language Processing and textual analysis on the novel Flowers for Algernon.
+
+For a more detailed write-up, see [].
 
 ## Introduction
 
@@ -22,11 +24,11 @@ coming soon
 ## References and Resources
 
  * <a name="myfootnote1">[1]</a>: https://en.wikipedia.org/wiki/Flowers_for_Algernon
- * Pandas, NumPy
+ * Pandas, NumPy, NLTK, SpellChecker, TextStat
 
 ## Extensions and to-do
  * Get rid of lines showing up in Tableau area chart
- * blah2
+ * Add more advanced filters for Tableau
 
 ## Author
 Alex Chung
