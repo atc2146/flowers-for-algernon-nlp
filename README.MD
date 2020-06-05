@@ -24,8 +24,8 @@ coming soon
  * <a name="myfootnote1">[1]</a>: https://en.wikipedia.org/wiki/Flowers_for_Algernon
  * Pandas, NumPy
 
-## Extensions
- * blah
+## Extensions and to-do
+ * Get rid of lines showing up in Tableau area chart
  * blah2
 
 ## Author
