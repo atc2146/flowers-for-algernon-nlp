@@ -10,7 +10,7 @@ For a more detailed write-up, see [].
 Flowers for Algernon  is a 1966 novel written by Daniel Keyes that tells the story of Charlie Gordon, a 32-year-old man with an IQ of 68.  Charlie undergoes an operation to increase his intelligence, and the operation is a success, with his IQ eventually reaching 185.  However, the effects are temporarily, and Charlie begins to regress to his original state.<sup>[[1]](#myfootnote1)</sup>
 
 ## Tableau Dashboard
-coming soon
+https://public.tableau.com/profile/alex.chung#!/vizhome/FlowersforAlgernon-TextAnalysisandNLP/Main
 
 ## Methodology
 coming soon
@@ -19,7 +19,7 @@ coming soon
 
 ## Data
 
-coming soon
+Data is taken from the novel under fair use for the purpose of education and commentary.
 
 
 ## References and Resources
