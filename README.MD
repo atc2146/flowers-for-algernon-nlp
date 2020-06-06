@@ -1,4 +1,4 @@
-# Summary
+# :books: :cherry_blossom: :mouse2:  Summary
 
 :books: :cherry_blossom: :mouse2:  
 Natural Language Processing and textual analysis on the novel Flowers for Algernon.
@@ -9,7 +9,7 @@ Flowers for Algernon  is a 1966 novel written by Daniel Keyes that tells the sto
 
 ## Tableau Dashboard
 
-Find the Tableau Dashboard [here](https://public.tableau.com/profile/alex.chung#!/vizhome/FlowersforAlgernon-TextAnalysisandNLP/Main "Tableau Public - Alex Chung | Flowers for Algernon - NLP and Textual Analysis").
+Find the [Tableau Dashboard here](https://public.tableau.com/profile/alex.chung#!/vizhome/FlowersforAlgernon-TextAnalysisandNLP/Main "Tableau Public - Alex Chung | Flowers for Algernon - NLP and Textual Analysis").
 
 Find my other dashboards on [Tableau Public](https://public.tableau.com/profile/alex.chung#!/ "Tableau Public - Alex Chung").
 
