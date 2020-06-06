@@ -8,7 +8,8 @@ Natural Language Processing and textual analysis on the novel Flowers for Algern
 Flowers for Algernon  is a 1966 novel written by Daniel Keyes that tells the story of Charlie Gordon, a 32-year-old man with an IQ of 68.  Charlie undergoes an operation to increase his intelligence, and the operation is a success, with his IQ eventually reaching 185.  However, the effects are temporarily, and Charlie begins to regress to his original state.<sup>[[1]](#myfootnote1)</sup>
 
 ## Tableau Dashboard
-https://public.tableau.com/profile/alex.chung#!/vizhome/FlowersforAlgernon-TextAnalysisandNLP/Main  
+
+Find the Tableau Dashboard [here](https://public.tableau.com/profile/alex.chung#!/vizhome/FlowersforAlgernon-TextAnalysisandNLP/Main "Tableau Public - Alex Chung | Flowers for Algernon - NLP and Textual Analysis").
 
 Find my other dashboards on [Tableau Public](https://public.tableau.com/profile/alex.chung#!/ "Tableau Public - Alex Chung").
 
