@@ -1,4 +1,4 @@
-# :books: :cherry_blossom: :mouse2:  Summary
+# Summary
 
 :books: :cherry_blossom: :mouse2:  
 Natural Language Processing and textual analysis on the novel Flowers for Algernon.
@@ -20,7 +20,9 @@ For a more detailed write-up, see [].
 
 ## Data
 
-Data is taken from the novel under fair use for the purpose of education and commentary uses only.
+Data is taken from the novel under fair use for the purpose of education and commentary uses only.  
+
+Exported data used to build the Tableau visualization can be found [here](Data/)
 
 
 ## References, Resources, and Inspirations
