@@ -1,4 +1,4 @@
-# Flowers for Algernon
+# Summary
 
 :books: :cherry_blossom: :mouse2:  
 Natural Language Processing and textual analysis on the novel Flowers for Algernon.
@@ -19,13 +19,15 @@ coming soon
 
 ## Data
 
-Data is taken from the novel under fair use for the purpose of education and commentary.
+Data is taken from the novel under fair use for the purpose of education and commentary uses only.
 
 
-## References and Resources
+## References, Resources, and Inspirations
 
- * <a name="myfootnote1">[1]</a>: https://en.wikipedia.org/wiki/Flowers_for_Algernon
- * Pandas, NumPy, NLTK, SpellChecker, TextStat
+ * <a name="myfootnote1">[1]</a> https://en.wikipedia.org/wiki/Flowers_for_Algernon
+ * [Pandas](https://pandas.pydata.org/), [NumPy](https://numpy.org/), [NLTK](https://www.nltk.org/), [SpellChecker](https://pypi.org/project/pyspellchecker/), [TextStat](https://pypi.org/project/textstat/)
+ * Tableau Dashboard: [The Eponymous Phrase](https://public.tableau.com/profile/skybjohnson#!/vizhome/TheEponymousPhrase/TheEponymousPhrase)
+ * Tableau Dashboard: [Sentiment Analysis w/ Quentin Tarantino](https://public.tableau.com/profile/tim.lafferty#!/vizhome/SentimentAnalysiswQuentinTarantino/Basic)
 
 ## Extensions and to-do
  * Get rid of lines showing up in Tableau area chart
