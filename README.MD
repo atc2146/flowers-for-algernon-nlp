@@ -18,8 +18,8 @@ For a more detailed write-up, see [here](Writeup/).
  * Misspellings were checked using the [Brown](https://en.wikipedia.org/wiki/Brown_Corpus) corpus, [Words](https://en.wikipedia.org/wiki/Words_(Unix)) corpus, and a manually generated list of valid words.  Overall, this contained 261822 'valid' words.
  * Sentiment Analysis was completed on each chapter using a Lexicon based approach using the [NRC Emotion Leixcon](https://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm).
  * Various reading scores such as the [Flesch-Kincaid readability tests](https://en.wikipedia.org/wiki/Flesch%E2%80%93Kincaid_readability_tests) were calculated using the Python package TextStat.
- * [CSV's](Data/) were exported to build the visualization in Tableau
-   * [CSV](Data/Flowers%20for%20Algernon%20-%20Chapter%20summaries.csv) with chapter level summaries of reading scores and sentiment
+ * [CSV's](Data/) were exported to build the visualization in Tableau.  Various other data cleaning using Pandas.
+   * [CSV](Data/Flowers%20for%20Algernon%20-%20Chapter%20summaries.csv) with chapter level summaries of reading scores and sentiment.
    * [CSV](Data/Flowers%20for%20Algernon%20-%20All%20word%20tokens.csv) containing a list of all words, whether it was misspelled, context, etc...
 
 `See Jupyter Notebooks for full details.`
@@ -35,7 +35,7 @@ Exported data used to build the Tableau visualization can be found [here](Data/)
 
  * <a name="myfootnote1">[1]</a> https://en.wikipedia.org/wiki/Flowers_for_Algernon
  * Python Packages: [Pandas](https://pandas.pydata.org/), [NumPy](https://numpy.org/), [NLTK](https://www.nltk.org/), [SpellChecker](https://pypi.org/project/pyspellchecker/), [TextStat](https://pypi.org/project/textstat/)
- * [NRC Emotion Leixcon](https://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm).
+ * [NRC Emotion Leixcon](https://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm)
  * Tableau Dashboard Inspirations: [The Eponymous Phrase](https://public.tableau.com/profile/skybjohnson#!/vizhome/TheEponymousPhrase/TheEponymousPhrase), [Sentiment Analysis w/ Quentin Tarantino](https://public.tableau.com/profile/tim.lafferty#!/vizhome/SentimentAnalysiswQuentinTarantino/Basic)
 
 ## Extensions and To-do
@@ -45,6 +45,7 @@ Exported data used to build the Tableau visualization can be found [here](Data/)
  * Clean code
  * Modularize code
  * Remove unnecessary data (to speed up Tableau)
+ * Generate random text using a trigram (or other n-gram) model
 
 ## Author
 Alex Chung
