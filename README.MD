@@ -41,6 +41,7 @@ Exported data used to build the Tableau visualization can be found [here](Data/)
 ## Extensions and To-do
  * Get rid of lines showing up in Tableau area chart
  * Add more advanced filters for Tableau
+ * Add Top N as a Parameter in Tableau
  * Finish full write-up
  * Clean code
  * Modularize code
