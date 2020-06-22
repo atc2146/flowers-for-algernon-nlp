@@ -39,12 +39,7 @@ Exported data used to build the Tableau visualization can be found [here](Data/)
  * Tableau Dashboard Inspirations: [The Eponymous Phrase](https://public.tableau.com/profile/skybjohnson#!/vizhome/TheEponymousPhrase/TheEponymousPhrase), [Sentiment Analysis w/ Quentin Tarantino](https://public.tableau.com/profile/tim.lafferty#!/vizhome/SentimentAnalysiswQuentinTarantino/Basic)
 
 ## Extensions and To-do
- * Get rid of lines showing up in Tableau area chart
- * Add more advanced filters for Tableau
- * Add Top N as a Parameter in Tableau
- * Finish full write-up
- * Clean code
- * Modularize code
+ * Finish  write-up
  * Remove unnecessary data (to speed up Tableau)
  * Generate random text using a trigram (or other n-gram) model
 
