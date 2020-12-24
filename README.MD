@@ -7,6 +7,8 @@ Natural Language Processing and textual analysis on the novel Flowers for Algern
 
 Flowers for Algernon  is a 1966 novel written by Daniel Keyes that tells the story of Charlie Gordon, a 32-year-old man with an IQ of 68.  Charlie undergoes an operation to increase his intelligence, and the operation is a success, with his IQ eventually reaching 185.  However, the effects are temporarily, and Charlie begins to regress to his original state.<sup>[[1]](#myfootnote1)</sup>
 
+Charlie's progression throughout the novel is analyzed using natural language processing.
+
 ## Tableau Dashboard
 
 Find the [Tableau Dashboard here](https://public.tableau.com/profile/alex.chung#!/vizhome/FlowersforAlgernon-TextAnalysisandNLP/Main "Tableau Public - Alex Chung | Flowers for Algernon - NLP and Textual Analysis").  
@@ -14,13 +16,13 @@ Find the [Tableau Dashboard here](https://public.tableau.com/profile/alex.chung#
 ## Methodology
 <!--For a more detailed write-up, see [here](Writeup/).  -->
 
- * Words were tokenized using NLTK's word_tokenize function and using a custom regex tokenization.
+ * Words were tokenized using NLTK's `word_tokenize` function and using a custom regex tokenization.
  * Misspellings were checked using the [Brown](https://en.wikipedia.org/wiki/Brown_Corpus) corpus, [Words](https://en.wikipedia.org/wiki/Words_(Unix)) corpus, and a manually generated list of valid words.  Overall, this contained 261822 'valid' words.
  * Sentiment Analysis was completed on each chapter using a Lexicon based approach using the [NRC Emotion Leixcon](https://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm).
- * Various reading scores such as the [Flesch-Kincaid readability tests](https://en.wikipedia.org/wiki/Flesch%E2%80%93Kincaid_readability_tests) were calculated using the Python package TextStat.
- * [CSV's](Data/) were exported to build the visualization in Tableau.  Various other data cleaning using Pandas.
+ * Various reading scores such as the [Flesch-Kincaid readability tests](https://en.wikipedia.org/wiki/Flesch%E2%80%93Kincaid_readability_tests) were calculated using the Python package `textstat`.
+ * [CSV's](Data/) were exported to build the visualization in Tableau.
    * [CSV](Data/Flowers%20for%20Algernon%20-%20Chapter%20summaries.csv) with chapter level summaries of reading scores and sentiment.
-   * [CSV](Data/Flowers%20for%20Algernon%20-%20All%20word%20tokens.csv) containing a list of all words, whether it was misspelled, context, etc...
+   * [CSV](Data/Flowers%20for%20Algernon%20-%20All%20word%20tokens.csv) containing a list of all words, whether it was misspelled, its context, etc...
 
 `See Jupyter Notebooks for full details.`
 
