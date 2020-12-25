@@ -18,13 +18,13 @@ Find the [Tableau Dashboard here](https://public.tableau.com/profile/alex.chung#
 
  * Words were tokenized using NLTK's `word_tokenize` function and using a custom regex tokenization.
  * Misspellings were checked using the [Brown](https://en.wikipedia.org/wiki/Brown_Corpus) corpus, [Words](https://en.wikipedia.org/wiki/Words_(Unix)) corpus, and a manually generated list of valid words.  Overall, this contained 261822 'valid' words.
- * Sentiment Analysis was completed on each chapter using a Lexicon based approach using the [NRC Emotion Leixcon](https://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm).
+ * Sentiment Analysis was completed using a Lexicon based approach by referencing the [NRC Emotion Leixcon](https://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm).
  * Various reading scores such as the [Flesch-Kincaid readability tests](https://en.wikipedia.org/wiki/Flesch%E2%80%93Kincaid_readability_tests) were calculated using the Python package `textstat`.
  * [CSV's](Data/) were exported to build the visualization in Tableau.
    * [CSV](Data/Flowers%20for%20Algernon%20-%20Chapter%20summaries.csv) with chapter level summaries of reading scores and sentiment.
    * [CSV](Data/Flowers%20for%20Algernon%20-%20All%20word%20tokens.csv) containing a list of all words, whether it was misspelled, its context, etc...
 
-`See Jupyter Notebooks for full details.`
+See Jupyter Notebooks for full details.
 
 ## Data
 
