@@ -11,7 +11,7 @@ Charlie's progression throughout the novel is analyzed using natural language pr
 
 ## Tableau Dashboard
 
-Find the [Tableau Dashboard here](https://public.tableau.com/profile/alex.chung#!/vizhome/FlowersforAlgernon-TextAnalysisandNLP/Main "Tableau Public - Alex Chung | Flowers for Algernon - NLP and Textual Analysis").  
+Find the [Tableau Dashboard here](https://public.tableau.com/app/profile/atcwy/viz/FlowersforAlgernon-TextAnalysisandNLP/Main "Tableau Public | Flowers for Algernon - NLP and Textual Analysis").  
 
 ## Methodology
 <!--For a more detailed write-up, see [here](Writeup/).  -->
@@ -44,6 +44,3 @@ Exported data used to build the Tableau visualization can be found [here](Data/)
  * Finish  write-up
  * Remove unnecessary data (to speed up Tableau)
  * Generate random text using a trigram (or other n-gram) model
-
-## Author
-Alex Chung
